@@ -1,0 +1,6 @@
+C:\Users\Brendan\Documents\Classes\NET_Development\Projects\AmmoReloader\DataObjects\bin\Debug\DataObjects.dll
+C:\Users\Brendan\Documents\Classes\NET_Development\Projects\AmmoReloader\DataObjects\bin\Debug\DataObjects.pdb
+C:\Users\Brendan\Documents\Classes\NET_Development\Projects\AmmoReloader\DataObjects\obj\Debug\DataObjects.csproj.AssemblyReference.cache
+C:\Users\Brendan\Documents\Classes\NET_Development\Projects\AmmoReloader\DataObjects\obj\Debug\DataObjects.csproj.CoreCompileInputs.cache
+C:\Users\Brendan\Documents\Classes\NET_Development\Projects\AmmoReloader\DataObjects\obj\Debug\DataObjects.dll
+C:\Users\Brendan\Documents\Classes\NET_Development\Projects\AmmoReloader\DataObjects\obj\Debug\DataObjects.pdb

@@ -1,0 +1,9 @@
+C:\Users\Brendan\Documents\Classes\NET_Development\Projects\AmmoReloader\DataAccessLayer\bin\Debug\DataAccessLayer.dll
+C:\Users\Brendan\Documents\Classes\NET_Development\Projects\AmmoReloader\DataAccessLayer\bin\Debug\DataAccessLayer.pdb
+C:\Users\Brendan\Documents\Classes\NET_Development\Projects\AmmoReloader\DataAccessLayer\bin\Debug\DataObjects.dll
+C:\Users\Brendan\Documents\Classes\NET_Development\Projects\AmmoReloader\DataAccessLayer\bin\Debug\DataObjects.pdb
+C:\Users\Brendan\Documents\Classes\NET_Development\Projects\AmmoReloader\DataAccessLayer\obj\Debug\DataAccessLayer.csproj.AssemblyReference.cache
+C:\Users\Brendan\Documents\Classes\NET_Development\Projects\AmmoReloader\DataAccessLayer\obj\Debug\DataAccessLayer.csproj.CoreCompileInputs.cache
+C:\Users\Brendan\Documents\Classes\NET_Development\Projects\AmmoReloader\DataAccessLayer\obj\Debug\DataAccessLayer.csproj.CopyComplete
+C:\Users\Brendan\Documents\Classes\NET_Development\Projects\AmmoReloader\DataAccessLayer\obj\Debug\DataAccessLayer.dll
+C:\Users\Brendan\Documents\Classes\NET_Development\Projects\AmmoReloader\DataAccessLayer\obj\Debug\DataAccessLayer.pdb
